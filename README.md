@@ -28,8 +28,6 @@ This project contains four main parts:
 * Three models are tested — 1) Multinomial Naive Bayes Classifier (Accuracy: 0.79); 2) Random Forest (0.77); 3) Gradient Boosting (0.83)
 * Use Gradient Boosting to predict the sentiment of a new comment
 
-![](Sentiment-predict-1.png)
-
 ## 4, Recommendation Tool - NLP:
 
 * Transform the original review-based data frame (2,600 rows) into restaurant-based (900 rows). Reviews of the same restaurant are merged into one.  Ratings, wait time, and meal cost are averaged. 
@@ -37,7 +35,7 @@ This project contains four main parts:
 * Find the most similar restaurants base on cosine similarity 
 * Generate 10 most similar restaurants with useful information (e.g, wait time, cost)
 
-![](Flexi-lunch-webapp-1.png)
+![](Flexi-lunch-webapp-2.png)
 
 By using this recommendation tool, you can find the nearby burger places that are good alternatives to Five Guys! You can make a wise decision base on the average wait time, cost, rating, etc. from prior reviews. 
 
