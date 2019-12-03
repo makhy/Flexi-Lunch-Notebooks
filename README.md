@@ -11,8 +11,8 @@ This project contains four main parts:
 
 ## 1. Web-scraping: 
 
-* Reviews-based (2,600 rows): Captures info of restaurant name, district, cuisine, rating, cost, wait time, review, and restaurant link
-* Include only reviews for lunch and with valid meal cost data
+* Reviews-based (2,600 rows): Captures info including restaurant name, district, cuisine, rating, cost, wait time, review, and restaurant link
+* Include only reviews for lunch and with meal spending data
 * Since Openrice displays max 17 pages of search result, I broke down the searches to 5 popular cuisines (i.e. Japanese, Chinese, Thai, Italian, American) for all 4 districts
 
 ## 2. Text Analysis - NLP:
@@ -23,7 +23,7 @@ This project contains four main parts:
 ## 3. Sentiment predictor - NLP:
 
 * Train a model that classifies the sentiment (positive or negative) of the review.  
-* Retain only reviews that having ratings.  Define rating >= 3 as “Good” sentiment.  
+* Retain only reviews that have ratings.  Define rating >= 3 as “Good” sentiment.  
 * Three models are tested — 1) Multinomial Naive Bayes Classifier (Accuracy: 0.79); 2) Random Forest (0.77); 3) Gradient Boosting (0.83)
 * Use Gradient Boosting Classifier to predict the sentiment of a new comment
 
