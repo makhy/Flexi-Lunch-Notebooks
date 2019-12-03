@@ -5,7 +5,7 @@ Imagine you are an office worker in Wan Chai.  You’ve been thinking of getting
 Try out this “Flexi-Lunch” recommendation tool! 
 
 
-This tool is built on a dataset web-scraped from Openrice HK’s reviews page.  It contains 2,600+ reviews on users' lunch experience of 900+ restaurants in the prime business districts of Central, Admiralty, Causeway Bay and Wan Chai from 2009 to 2019.  
+This tool is built on a dataset web-scraped from [Openrice HK’s reviews page](https://www.openrice.com/en/hongkong/restaurant/review/index.htm?tc=bc).  The dataset contains 2,600+ reviews on users' lunch experience of 900+ restaurants in the prime business districts of Central, Admiralty, Causeway Bay and Wan Chai from 2009 to 2019.  
 
 This project contains four main parts:
 
