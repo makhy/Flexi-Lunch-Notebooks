@@ -4,7 +4,6 @@ Imagine you are an office worker in Wan Chai.  You’ve been thinking of getting
 
 Try out this “Flexi-Lunch” recommendation tool! 
 
-![](Flexi-lunch-webapp-1.png)
 
 This tool is built on a dataset web-scraped from Openrice HK’s reviews page.  It contains 2,600+ reviews on users' lunch experience of 900+ restaurants in the prime business districts of Central, Admiralty, Causeway Bay and Wan Chai from 2009 to 2019.  
 
@@ -34,6 +33,8 @@ This project contains four main parts:
 * Use `CountVectorizer` to break down reviews to words and count frequencies
 * Find the most similar restaurants base on cosine similarity 
 * Generate 10 most similar restaurants with useful information (e.g, wait time, cost)
+
+![](Flexi-lunch-webapp-1.png)
 
 ![](Flexi-lunch-webapp-2.png)
 
