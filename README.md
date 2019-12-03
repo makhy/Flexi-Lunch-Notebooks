@@ -25,7 +25,7 @@ This project contains four main parts:
 * Train a model that classifies the sentiment (positive or negative) of the review.  
 * Retain only reviews that having ratings.  Define rating >= 3 as “Good” sentiment.  
 * Three models are tested — 1) Multinomial Naive Bayes Classifier (Accuracy: 0.79); 2) Random Forest (0.77); 3) Gradient Boosting (0.83)
-* Use Gradient Boosting to predict the sentiment of a new comment
+* Use Gradient Boosting Classifier to predict the sentiment of a new comment
 
 ## 4, Recommendation Tool - NLP:
 
