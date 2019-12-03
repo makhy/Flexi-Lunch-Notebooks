@@ -1,4 +1,4 @@
-# Flexi-Lunch-Recommender
+# Flexi-Lunch-Tool
 
 Imagine you are an office worker in Wan Chai.  You’ve been thinking of getting a delicious burger for lunch for the whole morning.  You arrive at Five Guys at 12:30pm, just to discover the queue at the cashier is over half an hour long, and almost every table has a person standing at the side waiting to be seated.  You really want a burger (no McDonald’s please…), but there isn’t much time left for the lunch hour.  What will you do?
 
