@@ -1,12 +1,5 @@
 # Flexi-Lunch-Tool
 
-Imagine you are an office worker in Wan Chai.  You’ve been thinking of getting a delicious burger for lunch for the whole morning.  You arrive at Five Guys at 12:30pm, just to discover the queue at the cashier is over half an hour long, and almost every table has a person standing at the side waiting to be seated.  You really want a burger (no McDonald’s please…), but there isn’t much time left for the lunch hour.  What will you do?
-
-Try out this “Flexi-Lunch” recommendation tool!
-
-
-# Flexi-Lunch-Tool
-
 Imagine you are an office worker. You’ve been thinking of getting a burger for lunch for the whole morning.  You arrive at Five Guys at 12:30pm, just to discover the queue is very long. You really want a burger (no McDonald’s please…). What will you do?
 
 Try out this “Flexi-Lunch” recommendation model!
@@ -33,7 +26,7 @@ This project has four main steps:
 * Three models are tested — 1) Multinomial Naive Bayes Classifier (Accuracy: 0.79); 2) Random Forest (0.77); 3) Gradient Boosting (0.83)
 * Use Gradient Boosting Classifier to predict the sentiment of a new comment
 
-## Recommendation model
+### Recommendation model
 
 * Transform the original review-based data frame (2,600 rows) into restaurant-based (900 rows). Reviews of the same restaurant are merged into one.  Ratings, wait time, and meal cost are averaged.
 * Use `CountVectorizer` to break down reviews to words and count frequencies
