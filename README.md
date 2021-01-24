@@ -1,4 +1,4 @@
-# Flexi-Lunch-Tool
+# Flexi Lunch Recommender Model
 
 Imagine you are an office worker. You’ve been thinking of getting a burger for lunch for the whole morning.  You arrive at Five Guys at 12:30pm, just to discover the queue is very long. You really want a burger (no McDonald’s please…). What will you do?
 
